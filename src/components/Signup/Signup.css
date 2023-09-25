@@ -1,0 +1,15 @@
+.signup_img{
+    margin: auto;
+    padding: 2em;
+}
+
+.signup_form{
+    margin: auto 3em;
+    text-align: center;
+}
+.btn{
+    width: 10em !important;
+}
+.signup{
+    margin: 3em auto;
+}

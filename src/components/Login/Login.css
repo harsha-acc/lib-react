@@ -1,0 +1,12 @@
+.login_img{
+    margin: auto;
+    padding: 2em;
+}
+
+.login_form{
+    margin: auto 3em;
+    text-align: center;
+}
+.btn{
+    width: 10em !important;
+}
